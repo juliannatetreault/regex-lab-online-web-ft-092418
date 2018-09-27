@@ -1,6 +1,5 @@
 def starts_with_a_vowel?(word)
-  word.each do |w|
-    if w.starts_with?()
+  word.match
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
